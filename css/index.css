@@ -1,0 +1,15 @@
+.jumbotron{
+    background-color: rgb(45, 71, 119);
+    padding: 10%;
+}
+.jumbotron h1{
+    color:#fff;
+}
+img{
+    width: 450px;
+    height: 450px;
+}
+.NewsGrid{
+    margin: 100px;
+    border: 1px solid #ffff;
+}
